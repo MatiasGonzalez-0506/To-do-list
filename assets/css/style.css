@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(54, 54, 54);
+}
+.content{
+    background-color: rgb(231, 229, 229);
+    width: 60vw;
+    height: 90vh;
+    border-radius: 1rem;
+}
+.subContent{
+    padding-left: 2%;
+}
+.line{
+    padding: 1px;
+    background-color: lightgray;
+    width: 99%;
+}
+#newTask{
+    width: 80%;
+    height: 30px;
+    border-color: rgb(202, 202, 202);
+    border-radius: 4px;
+}
+#addTask{
+    background-color: green;
+    color: lightgray;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+ul{
+    list-style: none;
+}
