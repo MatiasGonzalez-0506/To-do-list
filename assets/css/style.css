@@ -17,7 +17,7 @@ body{
     background-color: lightgray;
     width: 99%;
 }
-#newTask{
+#inputTask{
     width: 80%;
     height: 30px;
     border-color: rgb(202, 202, 202);
@@ -36,4 +36,15 @@ body{
 }
 ul{
     list-style: none;
+}
+.delete{
+    background-color: rgb(155, 32, 32);
+    color: white;
+    border-color: rgb(155, 32, 32);
+    
+}
+.finished{
+    background-color: darkolivegreen;
+    color: white;
+    border-color: darkolivegreen;
 }
