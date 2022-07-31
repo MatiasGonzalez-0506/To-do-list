@@ -1,4 +1,5 @@
-export let initialTasks = [
+// export 
+let initialTasks = [
     {
      id: 1,
      task: 'agregar tareas con descripcion al llenar el input'
