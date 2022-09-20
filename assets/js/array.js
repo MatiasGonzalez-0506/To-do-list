@@ -2,14 +2,14 @@
 let initialTasks = [
     {
      id: 1,
-     task: 'agregar tareas con descripcion al llenar el input'
+     task: 'asi se veran las tareas'
     },
     {
      id: 2,
-     task: 'borrar tareas al hacer click en borrar'
+     task: 'puedes borrar tareas al hacer click en borrar :)'
     },
     {
      id: 3,
-     task: 'incluir 3 tareas iniciales'
+     task: 'puedes marcar las tareas como completadas o desmarcarlas '
     },
 ]
