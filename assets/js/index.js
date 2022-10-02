@@ -4,9 +4,9 @@ const addTask = document.querySelector('#addTask')
 const total = document.querySelector('#total')
 const complete = document.querySelector('#completed')
 let tasks = [
-  {id: 1,task: 'agregar tareas con descripcion al llenar el input',state: false,},
-  { id: 2, task: 'borrar tareas al hacer click en borrar', state: false },
-  { id: 3, task: 'incluir 3 tareas iniciales', state: false },
+  {id: 1,task: 'asi se veran las tareas',state: false,},
+  { id: 2, task: 'puedes borrar tareas al hacer click en borrar :)', state: false },
+  { id: 3, task: 'puedes marcar las tareas como completadas o desmarcarlas', state: false },
 ]
 
 const count = function () {
